@@ -24,10 +24,20 @@ Welcome to **Chatify**! 🎊 This project is a simple chat application built for
 
 Here's a sneak peek into what the app looks like:
 
-![Entrance Screen](crovs/chatify/ScreenShots/entrance.jpg?raw=true "Entrance Screen")
-![Register Screen](/ScreenShots/register.jpg?raw=true "Optional Title")
-![Login Screen](/ScreenShots/login.jpg?raw=true "Optional Title")
-![Chat View](/ScreenShots/chat.jpg?raw=true "Optional Title")
+<img src="ScreenShots/entrance.png?raw=true" alt="Entrance Screen" title="Entrance Screen" width="250"/>
+
+Here’s how the register screen looks:
+
+<img src="/ScreenShots/register.png?raw=true" alt="Register Screen" title="Register Screen" width="250"/>
+
+And here’s the login screen:
+
+<img src="/ScreenShots/Login.png?raw=true" alt="Login Screen" title="Login Screen" width="250"/>
+
+Finally, here’s the chat view:
+
+<img src="/ScreenShots/chat.png?raw=true" alt="Chat" title="Chat" width="250"/>
+
 
 ## ⚙️ Installation
 
